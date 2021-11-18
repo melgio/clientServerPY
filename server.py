@@ -26,4 +26,4 @@ def sub_server(indirizzo, backlog=1):
 
 
 if __name__ == '__main__':
-    sub_server(("socks5://lh0cnunvxp0l98:rjk6v63bww9svo4sqty6i2nnurc@us-east-static-07.quotaguard.com", 1080))
+    sub_server(("54.84.138.60", 1080))
