@@ -26,4 +26,4 @@ def sub_server(indirizzo, backlog=1):
 
 
 if __name__ == '__main__':
-    sub_server(("54.84.138.60", 1080))
+    sub_server(("", 1080))
